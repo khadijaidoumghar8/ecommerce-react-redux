@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useSelector } from 'react-redux';
-import { FiShoppingCart, FiUser, FiMenu, FiX, FiSearch } from 'react-icons/fi';
+import { FiShoppingCart, FiUser, FiSearch } from 'react-icons/fi';
 import { BsLightningChargeFill } from 'react-icons/bs';
 
 const Navbar = () => {
